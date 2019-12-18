@@ -1,0 +1,23 @@
+.nav-link {
+    color: #777777;
+}
+
+.navbar{
+border-bottom: #cccccc solid 2px;
+background-color:#ffffff;
+
+}
+
+.bg-info{
+    width: 200px;
+}
+
+body{
+    background: #dddddd
+}
+
+footer{
+    background-color: #666666;
+    border-top: 8px solid #4aaaa5;
+    position: fixed;
+}
